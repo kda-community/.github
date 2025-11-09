@@ -6,6 +6,9 @@
   <img alt="KDA Community Edition" src="https://raw.githubusercontent.com/kda-community/graphic-assets/refs/heads/main/logos/kda_community_edition_original/kdace_extended_lightbg_dark_4000_1000.png" />
 </picture>
 
+**Node software**
+* https://github.com/kda-community/chainweb-node/releases/
+
 **API Endpoint**
 * https://api.chainweb-community.org
 
