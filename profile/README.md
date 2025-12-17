@@ -14,6 +14,8 @@
 
 **Reference Explorer**
 * https://explorer.chainweb-community.org
+* https://denascan.com
+* https://explorer.eckowallet.com/
 
 **Bootstrap nodes** 
 * https://fr-1.chainweb-community.org
@@ -21,3 +23,6 @@
 * https://pl-1.chainweb-community.org
 * https://pl-2.chainweb-community.org
 * https://ca-1.chainweb-community.org
+
+**Snapshots distributions**
+*  https://snapshots.chainweb-community.org
