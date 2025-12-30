@@ -9,6 +9,9 @@
 **Node software**
 * https://github.com/kda-community/chainweb-node/releases/
 
+**Pact**
+* https://github.com/kda-community/pact-5/releases
+
 **API Endpoint**
 * https://api.chainweb-community.org
 
