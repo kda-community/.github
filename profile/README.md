@@ -6,6 +6,13 @@
   <img alt="KDA Community Edition" src="https://raw.githubusercontent.com/kda-community/graphic-assets/refs/heads/main/logos/kda_community_edition_original/kdace_extended_lightbg_dark_4000_1000.png" />
 </picture>
 
+*Contributions are welcome as GH Isuues, GH PR: Haskell, JS, Documentation, Website* 
+
+https://kda-chain.org
+
+**Documentation**
+* https://kda-chain.org/docs
+
 **Node software**
 * https://github.com/kda-community/chainweb-node/releases/
 
